@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|c:\\users\\oric2\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\new folder (2)\\appui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|solutionrelative:appui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\appui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|solutionrelative:appui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\appui\\colorpickerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|solutionrelative:appui\\colorpickerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\appui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|solutionrelative:appui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\appui\\colorpickerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|solutionrelative:appui\\colorpickerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\appui\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|solutionrelative:appui\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\appui\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33137874-CEA4-4541-8347-58B83AC36306}|AppUI\\AppUI.csproj|solutionrelative:appui\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 293,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\Program.cs",
+              "RelativeDocumentMoniker": "AppUI\\Program.cs",
+              "ToolTip": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\Program.cs",
+              "RelativeToolTip": "AppUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:31:13.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\GameForm.cs",
+              "RelativeDocumentMoniker": "AppUI\\GameForm.cs",
+              "ToolTip": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\GameForm.cs [Design]",
+              "RelativeToolTip": "AppUI\\GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:31:05.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColorPickerForm.cs",
+              "DocumentMoniker": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\ColorPickerForm.cs",
+              "RelativeDocumentMoniker": "AppUI\\ColorPickerForm.cs",
+              "ToolTip": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\ColorPickerForm.cs",
+              "RelativeToolTip": "AppUI\\ColorPickerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:30:42.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColorPickerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\ColorPickerForm.cs",
+              "RelativeDocumentMoniker": "AppUI\\ColorPickerForm.cs",
+              "ToolTip": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\ColorPickerForm.cs [Design]",
+              "RelativeToolTip": "AppUI\\ColorPickerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:28:51.895Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\StartForm.cs",
+              "RelativeDocumentMoniker": "AppUI\\StartForm.cs",
+              "ToolTip": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\StartForm.cs",
+              "RelativeToolTip": "AppUI\\StartForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:03:16.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\GameForm.cs",
+              "RelativeDocumentMoniker": "AppUI\\GameForm.cs",
+              "ToolTip": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\GameForm.cs",
+              "RelativeToolTip": "AppUI\\GameForm.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADgv04AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:52:19.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\StartForm.cs",
+              "RelativeDocumentMoniker": "AppUI\\StartForm.cs",
+              "ToolTip": "C:\\Users\\oric2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\New folder (2)\\AppUI\\StartForm.cs [Design]",
+              "RelativeToolTip": "AppUI\\StartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:03:05.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
