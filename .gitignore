@@ -18,3 +18,4 @@ Release/
 
 # Ignore packages folder (if using NuGet packages)
 packages/
+/Report.doc
