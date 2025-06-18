@@ -11,26 +11,33 @@ namespace AppUI
     public class ColorPickerForm : System.Windows.Forms.Form
     {
         List<List<Button>> m_ColorButtons;
-        const int m_ColorPickerFormNumberOfLines = 2;
-        const int m_ColorPickerFormButtonsPerLine = 4;
-        const int m_Spacing = 5;
-        System.Drawing.Size ButtonSize = new System.Drawing.Size(25, 25);
-        Color[] m_Colors = new Color[] { Color.Red, Color.Green, Color.Blue, Color.Yellow, Color.Orange, Color.Purple, Color.Cyan, Color.Magenta };
+        private const int m_ColorPickerFormNumberOfLines = 2;
+        private const int m_ColorPickerFormButtonsPerLine = 4;
+        private const int m_Spacing = 5;
+        private const int m_ButtonSize = 30;
+        private const int m_totalButtonsWidth = (m_ColorPickerFormButtonsPerLine * m_ButtonSize) + (m_ColorPickerFormButtonsPerLine - 1) * m_Spacing;
+        private const int m_totalButtonsHeight = (m_ColorPickerFormNumberOfLines * m_ButtonSize) + (m_ColorPickerFormNumberOfLines - 1) * m_Spacing;
+        private System.Drawing.Size ButtonSize = new System.Drawing.Size(30,30);
+        private Color[] m_Colors;
+
         public Color SelectedColor { get; private set; }
-        public ColorPickerForm()
+        public ColorPickerForm(Point FormLocation, Color[] Colors)
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.Manual; // Set the start position to manual to allow custom location
+            this.Location = FormLocation;
+            m_Colors = Colors;
             CreateButtonList();
         }
 
         private void InitializeComponent()
         {
             this.SuspendLayout();
-            // 
-            // ColorPickerForm
-            // 
-            this.ClientSize = new System.Drawing.Size(396, 388);
-            this.Name = "ColorPickerForm";
+            this.ClientSize = new System.Drawing.Size(m_totalButtonsWidth,m_totalButtonsHeight);
+            this.Text = "Color Picker";
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog; // Set the form border style to fixed dialog
+            this.MaximizeBox = false;
+            this.MinimizeBox = false; 
             this.ResumeLayout(false);
 
         }
@@ -50,14 +57,14 @@ namespace AppUI
                     b.BackColor = m_Colors[colorIdx];
                     line.Add(b);
                     this.Controls.Add(b);
-                    b.Click += new EventHandler(colorButtons_OnClick); // Correctly attach the event handler to the button's Click event  
+                    b.Click += new EventHandler(ColorButtons_OnClick); // Correctly attach the event handler to the button's Click event  
                     colorIdx++;
                 }
                 m_ColorButtons.Add(line);
             }
         }
 
-        private void colorButtons_OnClick(object sender, EventArgs e)
+        private void ColorButtons_OnClick(object sender, EventArgs e)
         {
             Button clickedButton = sender as Button;
             if (clickedButton != null)
