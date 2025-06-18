@@ -1,0 +1,20 @@
+# Ignore build output directories
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+
+# Ignore other binaries
+*.obj
+*.log
+
+# Ignore packages folder (if using NuGet packages)
+packages/
